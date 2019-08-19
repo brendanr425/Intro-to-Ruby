@@ -1,0 +1,1 @@
+For the first example, x is equal to 3. In the second example, x is only defined within the times block, which will result in an error when used outside of it. 

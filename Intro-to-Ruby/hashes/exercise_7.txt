@@ -1,0 +1,1 @@
+In the first example, 'x' is utilized as a symbol in the hash. In the second example, x is just a standard string variable. 

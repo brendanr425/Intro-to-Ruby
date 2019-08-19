@@ -1,0 +1,1 @@
+The program will output "These hashes are the same!" because hashes do not rely on the order of the key/value pairs. The minor differences in syntax of these two hashes doesn't make them unequal either. 

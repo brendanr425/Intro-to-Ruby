@@ -1,0 +1,1 @@
+The method will not print anything to the screen because 'puts' is placed after the 'return' expression. 

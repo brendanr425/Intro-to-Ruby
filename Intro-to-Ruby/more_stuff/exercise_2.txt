@@ -1,0 +1,1 @@
+The program won't print anything to the screen, because the block is not being executed inside of the method. In order to execute the block, the 'call' method should be attached to 'block'. 

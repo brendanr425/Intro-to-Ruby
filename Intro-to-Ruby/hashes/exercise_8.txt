@@ -1,0 +1,1 @@
+A method called 'keys' was called on an Array but it's nonexistent for Array objects. Therefore, the answer is 'B'.

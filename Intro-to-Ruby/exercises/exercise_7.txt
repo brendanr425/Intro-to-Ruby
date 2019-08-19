@@ -1,0 +1,1 @@
+A hash is an organized list of data like an array. However, the essential difference is that a hash utilizes key/value pairs in order to retrieve said data, whereas an array's elements are retrieved via numerical indices. 

@@ -1,0 +1,1 @@
+There's supposed to be two 'end' keywords within the 'equal_to_four' function. One is for the if statement and the other is for closing the function. By putting 'end' at the end of the if statement, you can fix the error. 

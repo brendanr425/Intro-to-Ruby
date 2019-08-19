@@ -1,0 +1,9 @@
+'*' indicates the value of arr at the end of each example. 
+
+1. arr = ["b", "a"]
+   arr = [["b", 1], ["b", 2], ["b", 3], ["a", 1], ["a", 2], ["a", 3]]
+ * arr = [["b"], ["b", 2], ["b", 3], ["a", 1], ["a", 2], ["a", 3]]
+
+2. arr = ["b", "a"]
+   arr = [["b", [1, 2, 3]], ["a", [1, 2, 3]]]
+ * arr = [["b"], ["a", [1, 2, 3]]]

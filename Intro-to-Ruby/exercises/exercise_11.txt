@@ -1,0 +1,1 @@
+'ruby-lang.org' is my favorite source for Ruby documentation. The website organizes specific syntax by its designated class, which makes it easy and efficient to navigate. It also provides documentation for earlier versions of Ruby and specifies which versions are outdated. 
